@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelCuevas14
 - 👀 I’m interested in collaborating.
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate and expand my network.
 - 📫 Reach me at michaelcuevas111298@gmail.com
 
